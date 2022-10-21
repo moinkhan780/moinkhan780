@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Long Moin Khan</h1>
+<h1 align="center">Hi 👋, I'm Moin Khan</h1>
 <h2 align="center">Full Stack Developer</h2>
 <p align="center">I have rich experience in flutter and with graphql and rest api.</p>
 
